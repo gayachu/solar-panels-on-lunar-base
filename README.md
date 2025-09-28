@@ -12,6 +12,9 @@ The lunar environment is harsh, and understanding how panels degrade is critical
 - **Visualization**: heatmaps of panel health over time  
 
 ---
+## Results
+The degradation of a solar panel after 60 years can be seen below - 
+![heatmap](https://github.com/user-attachments/assets/5a150ce2-1fd9-4b2f-8226-883a2d40bc04)
 
 
 
